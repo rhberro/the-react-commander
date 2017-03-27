@@ -2,8 +2,11 @@
   "name": "the-react-commander",
   "version": "0.0.0",
   "description": "The command line interface helper for generating components using the the-react-client structure.",
-  "main": "index.js",
   "license": "MIT",
+  "main": "index.js",
+  "bin": {
+    "the-react-commander": "bin/the-react-commander.js"
+  },
   "author": {
     "email": "rhberro@gmail.com",
     "name": "Rafael Henrique Berro",
@@ -42,5 +45,6 @@
   },
   "jest": {
     "testEnvironment": "node"
-  }
+  },
+  "preferGlobal": "true"
 }
