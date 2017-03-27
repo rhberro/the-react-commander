@@ -20,7 +20,8 @@
     "tool",
     "tools",
     "command",
-    "utility"
+    "utility",
+    "utilities"
   ],
   "engines": {
     "node": ">=7.4.0",
