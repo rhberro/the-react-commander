@@ -1,0 +1,45 @@
+{
+  "name": "the-react-commander",
+  "version": "0.0.0",
+  "description": "The command line interface helper for generating components using the the-react-client structure.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "email": "rhberro@gmail.com",
+    "name": "Rafael Henrique Berro",
+    "url": "https://github.com/rhberro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rhberro/the-react-commander"
+  },
+  "bugs": {
+    "url": "https://github.com/rhberro/the-react-commander/issues"
+  },
+  "keywords": [
+    "tool",
+    "tools",
+    "command",
+    "utility"
+  ],
+  "engines": {
+    "node": ">=7.4.0",
+    "npm": ">=4.0.5"
+  },
+  "scripts": {
+    "test": "standard | snazzy && jest"
+  },
+  "dependencies": {
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "shelljs": "^0.7.7"
+  },
+  "devDependencies": {
+    "jest": "^19.0.2",
+    "snazzy": "^6.0.0",
+    "standard": "^9.0.2"
+  },
+  "jest": {
+    "testEnvironment": "node"
+  }
+}
