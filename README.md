@@ -18,7 +18,7 @@ The command line interface helper for generating components using the the-react-
 
 Install it globally using node package manager install command or yarn.
 
-```js
+```
 npm install --global the-react-commander
 ```
 
