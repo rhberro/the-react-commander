@@ -2,4 +2,4 @@
 
 'use strict'
 
-const commander = require('../index.js')
+const library = require('../index.js')
