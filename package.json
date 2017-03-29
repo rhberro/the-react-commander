@@ -34,7 +34,6 @@
     "test": "standard | snazzy && jest"
   },
   "dependencies": {
-    "colors": "^1.1.2",
     "commander": "^2.9.0",
     "shelljs": "^0.7.7"
   },
