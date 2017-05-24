@@ -24,6 +24,8 @@ npm install --global the-react-commander
 
 ## Getting Started
 
+You can start by typing the-react-commander into you terminal to see the help menu.
+
 ## Contributing
 
 The contribution guide is not available for now.
