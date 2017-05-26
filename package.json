@@ -28,7 +28,8 @@
   ],
   "engines": {
     "node": ">=7.4.0",
-    "npm": ">=4.0.5"
+    "npm": ">=4.0.5",
+    "yarn": ">=0.24.5"
   },
   "scripts": {
     "test": "standard | snazzy && jest"
