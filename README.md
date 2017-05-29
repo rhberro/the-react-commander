@@ -9,6 +9,8 @@ The command line interface helper for generating components using the the-react-
 
 - [**Installing**](#installing)
 - [**Getting Started**](#getting-started)
+- [**Commands**](#commands)
+  - [**New**](#new)
 - [**Contributing**](#contributing)
 - [**License**](#license)
 
@@ -25,6 +27,12 @@ npm install --global the-react-commander
 ## Getting Started
 
 You can start by typing the-react-commander into your terminal to see the help menu.
+
+## Commands
+
+### New \<Name>
+
+Creates a new application with the given name and install it dependencies.
 
 ## Contributing
 
