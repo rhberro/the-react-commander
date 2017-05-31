@@ -10,7 +10,7 @@ The command line interface helper for generating components using the the-react-
 - [**Installing**](#installing)
 - [**Getting Started**](#getting-started)
 - [**Commands**](#commands)
-  - [**New**](#new)
+  - [**New**](#new-name)
 - [**Contributing**](#contributing)
 - [**License**](#license)
 
@@ -30,7 +30,7 @@ You can start by typing the-react-commander into your terminal to see the help m
 
 ## Commands
 
-### New \<Name> {#new}
+### New \<Name>
 
 Creates a new application with the given name and install it dependencies.
 
