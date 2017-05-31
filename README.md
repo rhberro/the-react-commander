@@ -30,7 +30,7 @@ You can start by typing the-react-commander into your terminal to see the help m
 
 ## Commands
 
-### New \<Name>
+### New
 
 Creates a new application with the given name and install it dependencies.
 
