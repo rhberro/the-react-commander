@@ -37,7 +37,7 @@ You can start by typing the-react-commander into your terminal to see the help m
 Creates a new application with the given name and install it dependencies.
 
 ```
-the-react-client new my-project
+the-react-commander new my-project
 ```
 
 ### View \<Name>
