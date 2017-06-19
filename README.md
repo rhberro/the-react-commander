@@ -11,6 +11,8 @@ The command line interface helper for generating components using the the-react-
 - [**Getting Started**](#getting-started)
 - [**Commands**](#commands)
   - [**New**](#new-name)
+  - [**View**](#view-name)
+  - [**Component**](#component-name)
 - [**Contributing**](#contributing)
 - [**License**](#license)
 
