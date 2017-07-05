@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/rhberro/the-react-commander.svg?branch=master)](https://travis-ci.org/rhberro/the-react-client)
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
-The command line interface helper for generating components using the the-react-client structure.
+The command line interface helper for generating components using the [the-react-client](https://github.com/rhberro/the-react-client) structure.
 
 ---
 
