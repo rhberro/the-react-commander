@@ -37,7 +37,7 @@ You can start by typing the-react-commander into your terminal to see the help m
 Creates a new application with the given name and install it dependencies.
 
 ```
-the-react-commander new my-project
+the-react-commander new my-project-name
 ```
 
 ### View \<Name>
@@ -45,7 +45,7 @@ the-react-commander new my-project
 Creates a new view with the given name.
 
 ```
-the-react-commander make:view my-view
+the-react-commander make:view my-view-name
 ```
 
 ### Component \<Name>
@@ -53,7 +53,7 @@ the-react-commander make:view my-view
 Creates a new component with the given name.
 
 ```
-the-react-commander make:component my-component
+the-react-commander make:component my-component-name
 ```
 
 ## Contributing
